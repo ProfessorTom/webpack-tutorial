@@ -4,5 +4,5 @@ module.exports = {
         filename: 'bundle.js',
         path: './dist'
     },
-    mode: 'node'
+    mode: 'none'
 }
